@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/3D scene/1080p60/partial_movie_files/Calculus3DVisualization/3488566039_2975687897_3161148745.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/3D scene/1080p60/partial_movie_files/Calculus3DVisualization/3602940482_4291857613_1550036756.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/3D scene/1080p60/partial_movie_files/Calculus3DVisualization/3602940482_1638687826_1154836047.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/3D scene/1080p60/partial_movie_files/Calculus3DVisualization/3602940482_2492241245_1754652025.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/3D scene/1080p60/partial_movie_files/Calculus3DVisualization/3602940482_349231920_2445027388.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/3D scene/1080p60/partial_movie_files/Calculus3DVisualization/3602940482_3729750418_3935510821.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/3D scene/1080p60/partial_movie_files/Calculus3DVisualization/3602940482_1831374817_1845250266.mp4'

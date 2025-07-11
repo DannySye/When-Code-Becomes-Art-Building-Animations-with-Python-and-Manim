@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Complex math scene/1080p60/partial_movie_files/ComplexScene/3977891868_653812955_223132457.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Complex math scene/1080p60/partial_movie_files/ComplexScene/2852726489_1839128356_640008477.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Complex math scene/1080p60/partial_movie_files/ComplexScene/2852726489_3433008412_980420795.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Complex math scene/1080p60/partial_movie_files/ComplexScene/2852726489_2408024828_86907030.mp4'
