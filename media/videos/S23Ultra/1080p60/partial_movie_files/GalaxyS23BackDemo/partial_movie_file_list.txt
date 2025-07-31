@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/GalaxyS23BackDemo/3977891868_3962380027_223132457.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/GalaxyS23BackDemo/2852726489_1839128356_2447977208.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/GalaxyS23BackDemo/2852726489_120084187_3214855740.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/GalaxyS23BackDemo/2852726489_1839128356_1615083713.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/GalaxyS23BackDemo/2852726489_1590328269_3916434879.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/GalaxyS23BackDemo/2852726489_4007275166_4293406880.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/GalaxyS23BackDemo/2852726489_3516484462_2835403618.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/GalaxyS23BackDemo/2852726489_2584036258_1706574504.mp4'

@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Quadratic Proof/1080p60/partial_movie_files/QuadraticFormulaProof/3977891868_3704717446_223132457.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Quadratic Proof/1080p60/partial_movie_files/QuadraticFormulaProof/2852726489_1013340527_680708289.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Quadratic Proof/1080p60/partial_movie_files/QuadraticFormulaProof/2852726489_1839128356_158795533.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Quadratic Proof/1080p60/partial_movie_files/QuadraticFormulaProof/2852726489_2941798027_59436506.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Quadratic Proof/1080p60/partial_movie_files/QuadraticFormulaProof/2852726489_2810514195_1045672651.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Quadratic Proof/1080p60/partial_movie_files/QuadraticFormulaProof/2852726489_1839128356_3475585330.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Quadratic Proof/1080p60/partial_movie_files/QuadraticFormulaProof/2852726489_297033948_1153953846.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Quadratic Proof/1080p60/partial_movie_files/QuadraticFormulaProof/2852726489_4235859287_1498672642.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Quadratic Proof/1080p60/partial_movie_files/QuadraticFormulaProof/2852726489_2408024828_1186300013.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Quadratic Proof/1080p60/partial_movie_files/QuadraticFormulaProof/2852726489_2488044771_2874346364.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/Quadratic Proof/1080p60/partial_movie_files/QuadraticFormulaProof/2852726489_2015106682_68520373.mp4'

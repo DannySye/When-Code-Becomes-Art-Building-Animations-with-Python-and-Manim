@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/axesgraphdemo/1080p60/partial_movie_files/AxesGraphDemo/3977891868_3452658859_223132457.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/axesgraphdemo/1080p60/partial_movie_files/AxesGraphDemo/2852726489_2368069985_2411160542.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/axesgraphdemo/1080p60/partial_movie_files/AxesGraphDemo/2852726489_2015106682_1456858895.mp4'

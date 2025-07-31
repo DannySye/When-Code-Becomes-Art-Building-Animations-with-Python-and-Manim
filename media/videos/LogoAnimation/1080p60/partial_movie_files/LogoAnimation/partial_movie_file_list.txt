@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/LogoAnimation/1080p60/partial_movie_files/LogoAnimation/3977891868_1599108422_223132457.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/LogoAnimation/1080p60/partial_movie_files/LogoAnimation/2852726489_1839128356_2904276198.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/LogoAnimation/1080p60/partial_movie_files/LogoAnimation/2852726489_2944884707_509187707.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/LogoAnimation/1080p60/partial_movie_files/LogoAnimation/2852726489_387279202_488254147.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/LogoAnimation/1080p60/partial_movie_files/LogoAnimation/2852726489_2015106682_3029868145.mp4'

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/graphFunctions/1080p60/partial_movie_files/GraphFunctions/3977891868_2297490119_223132457.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/graphFunctions/1080p60/partial_movie_files/GraphFunctions/2852726489_3321841866_1400491859.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/graphFunctions/1080p60/partial_movie_files/GraphFunctions/2852726489_2408024828_1361603440.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/graphFunctions/1080p60/partial_movie_files/GraphFunctions/2852726489_389881358_3555493911.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/graphFunctions/1080p60/partial_movie_files/GraphFunctions/2852726489_2015106682_3230916311.mp4'

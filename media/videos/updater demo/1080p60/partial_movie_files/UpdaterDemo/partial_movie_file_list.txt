@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/updater demo/1080p60/partial_movie_files/UpdaterDemo/3977891868_971326567_3951644756.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/updater demo/1080p60/partial_movie_files/UpdaterDemo/2852726489_2015106682_2566417975.mp4'

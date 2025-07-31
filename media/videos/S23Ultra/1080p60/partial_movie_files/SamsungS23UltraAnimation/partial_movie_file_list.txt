@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/SamsungS23UltraAnimation/1783742355_2745643118_223132457.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/SamsungS23UltraAnimation/2322314848_3201849554_2134993322.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/SamsungS23UltraAnimation/2322314848_2709870503_131512682.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/SamsungS23UltraAnimation/2322314848_3201849554_3376333823.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/SamsungS23UltraAnimation/2322314848_588357778_3524641828.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/SamsungS23UltraAnimation/2322314848_3201849554_181464103.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/SamsungS23UltraAnimation/2322314848_3373191635_2469174156.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/SamsungS23UltraAnimation/2322314848_3201849554_1812105935.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/SamsungS23UltraAnimation/2322314848_47782758_2383622024.mp4'
+file 'file:C:/Users/mwiin/OneDrive/Documentos/When-Code-Becomes-Art-Building-Animations-with-Python-and-Manim/media/videos/S23Ultra/1080p60/partial_movie_files/SamsungS23UltraAnimation/2322314848_2408024828_1982007921.mp4'
