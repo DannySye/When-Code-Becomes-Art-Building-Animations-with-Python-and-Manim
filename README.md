@@ -146,5 +146,3 @@ Manim offers many advanced features for more complex animations:
 * **Discord Community:** Join the [Manim Community Discord](https://www.manim.community/discord/) for help and discussion.
 
 ---
-
-*This README was generated based on the presentation "When Code Becomes Art: Building Animations with Python and Manim" by Mwiine Daniel and Collins Mesue Asibong.*
